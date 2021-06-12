@@ -39,5 +39,5 @@ a href="https://github.com/sameer003">
 <p align="left">
 <a href="https://portfolio-9f45d.firebaseapp.com/"><img src="https://img.shields.io/badge/-firebaseapp.com-11erer?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sameer-ahmed-b21689bb"><img src="https://img.shields.io/badge/-Sameer%20Ahmed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sameer003r@gmail.com"><img src="https://img.shields.io/badge/-sameer003r@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:sameercodes003@gmail.com"><img src="https://img.shields.io/badge/-sameercodes003@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
