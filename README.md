@@ -3,11 +3,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently learning Next.js.\
-🌱 &nbsp;I'm trying to learn German as my 3rd speaking language.\
+🎓 &nbsp;I'm currently learning Solidity.\
 ✍️ &nbsp;In my free time, I read books and surf through web to expand my knowledge.\
 💞️ I’m always looking forward to new things in JavaScript world.\
-📄 &nbsp;Please have a look at my [Portfolio](https://www.https://portfolio-9f45d.firebaseapp.com/) for more details about me.
+📄 &nbsp;Please have a look at my [Portfolio](https://thesameerahmed.com/) for more details about me.
 
 <img alt="Coding" src="https://cdn.dribbble.com/users/176039/screenshots/5506302/multitask-goodhabitz-wevoke-dribbble-01.gif"  width="250" align="right"/>
 
